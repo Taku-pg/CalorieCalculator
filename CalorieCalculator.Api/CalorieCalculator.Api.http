@@ -1,0 +1,6 @@
+@CalorieCalculator.Api_HostAddress = http://localhost:5250
+
+GET {{CalorieCalculator.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
